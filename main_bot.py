@@ -82,4 +82,4 @@ async def anorganic(ctx):
     await ctx.send('daftar sampah anorganic')
     await ctx.send(sampah)
 
-bot.run("MTE5NDI2NjAxMjgyOTM1NjA0Mw.GNjehC.ZqfeQ2vYSeF_5RFdL4sSAGPCLQVC2S4qiDXD94")
+bot.run("")
